@@ -9,5 +9,7 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
-  "sudormrfbin/cheatsheet.nvim",
+  {
+    "sudormrfbin/cheatsheet.nvim",
+  }
 }
