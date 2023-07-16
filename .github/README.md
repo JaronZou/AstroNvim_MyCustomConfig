@@ -38,5 +38,5 @@ nvim
 #### Download LSP
 
 ```vim
-MasonInstall <tab>
+:MasonInstall <tab>
 ```
