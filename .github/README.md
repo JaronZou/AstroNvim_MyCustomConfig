@@ -40,3 +40,14 @@ nvim
 ```vim
 :MasonInstall <tab>
 ```
+
+#### Download NeoVide
+
+If you want, you can download neovide, which provides neovim graphics support with better animation.
+
+Doanload for Ubuntu/Debian
+
+```shell
+cargo install --git https://github.com/neovide/neovide
+```
+If you encounter missing library files of other binary files, please download them yourself.
